@@ -22,6 +22,9 @@
             .back{
                 text-align: center;
             }
+            .container {
+                background-color: #7fffd4;
+        }
         </style>
     
     </div>
