@@ -1,7 +1,7 @@
 <svelte:head>
         <title>Контакты</title>
     </svelte:head>
-    <div class="container">
+    <div class="container1">
         <h1>    <span class="red">К</span>
             <span class="black">о</span>
             <span class="blue">н</span>
@@ -42,7 +42,7 @@
             width: 400px; /* Размер логотипа */
         }
     
-        .container {
+        .container1 {
             background: url(https://photos.app.goo.gl/ujRQBzWpH5hKG1gD9) center center/cover no-repeat;
     }
       
