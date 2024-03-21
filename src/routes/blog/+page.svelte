@@ -18,7 +18,7 @@
         </div>
     </div>
     <style>
-            .container{
+    .container{
         max-width: 800px;
         margin: 50px auto;
         padding: 0 20px;
