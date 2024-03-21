@@ -14,7 +14,7 @@
 
         <div class="social-buttons">
             <button class="telegram" onclick="window.location.href = 'https://t.me/premium';">
-                <img src="/src/lib/Images/Telegram-logo.png" alt="Telegram">
+                <img src="https://photos.google.com/photo/AF1QipN2jMZ4BgVelAPPJ8M3IypBI4K1E3w-EnkujX7g" alt="Telegram">
             </button>
             <button class="whatsapp" onclick="window.location.href = 'https://wa.me/+79434314511';">
                 <img src="/src/lib/Images/whatsapp-png-whatsapp-logo-vetor-png-5000.png" alt="WhatsApp">
@@ -43,7 +43,7 @@
         }
     
         .container {
-            background: url(/src/lib/Images/u44nknow55n.png) center center/cover no-repeat;
+            background: url(https://photos.app.goo.gl/ujRQBzWpH5hKG1gD9) center center/cover no-repeat;
     }
       
     .red { color: red; }

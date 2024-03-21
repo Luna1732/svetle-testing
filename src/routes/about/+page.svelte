@@ -15,7 +15,7 @@
         <p1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam nulla accusamus totam voluptas officiis odio cupiditate non quia cumque. Possimus, esse suscipit accusantium nulla repellendus exercitationem est mollitia quod perferendis fugiat natus iure libero vel rerum, quam beatae officiis ratione quia eius nisi delectus hic cum. Est numquam optio placeat!</p1>
     
         <div class="back">
-            <img src="/src/lib/Images/8cNQy_LboMc.jpg" alt="eGO NET" width="1000">
+            <img src="file:///c%3A/Users/Vlad/Desktop/Rab/ДЖЕКПОТ/Nefedkovv%204.5/svetle-testing/src/lib/Images/8cNQy_LboMc.jpg" alt="eGO NET" width="1000">
         </div>
 
         <style>
